@@ -1,11 +1,7 @@
-# Simple Piano Demo
+# Simple Log Kit Demo
 
-
-!!!under construction/develoment!!!
-
-
-Demo for [simple-piano](https://www.npmjs.com/package/simple-piano) node package
+Demo for [simple-log-kit](https://www.npmjs.com/package/simple-log-kit) node package
 
 See the demo here:
-https://jasonfleischer.github.io/simple-piano-demo/
+https://jasonfleischer.github.io/simple-log-kit-demo/
 
