@@ -7,10 +7,10 @@ logE("This is an error log message")
 //log("this will not execute")
 //logE("this will still execute")
 
-function drawChord() {
+function doLog() {
 	log('log message')
 }
 
-function drawNote() {
+function doErrorLog() {
 	logE('error log message')
 }
