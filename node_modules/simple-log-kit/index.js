@@ -20,3 +20,16 @@ exports.logE = (msg) => {
 exports.turnOffNonErrorLogs = () => {
 	LOG_NON_ERROR_MESSAGES = false
 };
+
+
+
+
+////////
+
+function isWDS() {
+	console.log("this is a test WDS");
+}
+
+//var simpleLogKit = require("simple-log-kit")
+
+module.exports = isWDS

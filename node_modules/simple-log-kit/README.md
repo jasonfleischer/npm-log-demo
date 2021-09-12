@@ -1,6 +1,6 @@
 ## [simple-log-kit](https://www.npmjs.com/package/simple-log-kit)
 
-A simple and lightweight log kit. Click [**HERE**](https://jasonfleischer.github.io/simple-log-kit-demo/) to see a demo
+A simple and lightweight log kit. Click [HERE](https://jasonfleischer.github.io/simple-log-kit-demo/) to see a demo
 
 ![Screenshot](https://jasonfleischer.github.io/simple-log-kit-demo/screenshot/screen.png "Screenshot")
 

@@ -14,3 +14,7 @@ document.getElementById("log_button").onclick = function() {
 document.getElementById("error_log_button").onclick = function() {  
 	logE('error log message')
 };  
+
+
+const isWDS = require('isWDS')
+isWDS()
