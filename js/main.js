@@ -7,10 +7,10 @@ logE("This is an error log message")
 //log("this will not execute")
 //logE("this will still execute")
 
-function doLog() {
-	log('log message')
-}
+document.getElementById("log_button").onclick = function() {  
+	log('log message') 
+};
 
-function doErrorLog() {
+document.getElementById("error_log_button").onclick = function() {  
 	logE('error log message')
-}
+};  
