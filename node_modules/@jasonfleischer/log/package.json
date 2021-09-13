@@ -1,6 +1,6 @@
 {
   "name": "@jasonfleischer/log",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "simple and lightweight logging",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonfleischer/simple-log-kit.git"
+    "url": "git+https://github.com/jasonfleischer/npm-log.git"
   },
   "keywords": [
     "log",
@@ -27,7 +27,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonfleischer/simple-log-kit/issues"
+    "url": "https://github.com/jasonfleischer/npm-log/issues"
   },
-  "homepage": "https://github.com/jasonfleischer/simple-log-kit#readme"
+  "homepage": "https://github.com/jasonfleischer/npm-log#readme"
 }
