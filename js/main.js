@@ -1,20 +1,18 @@
-const { log, logE, turnOffNonErrorLogs } = require("../node_modules/simple-log-kit/index")
+//const log = require("../node_modules/@jasonfleischer/log/index")
+const log = require("@jasonfleischer/log")
 
-log("This is a normal log message")
-logE("This is an error log message")
+log.i("This is a normal log message")
+log.e("This is an error log message")
 
-//turnOffNonErrorLogs()
-//log("this will not execute")
-//logE("this will still execute")
+//log.turnOffNonErrorLogs()
+//log.i("this will not execute")
+//log.e("this will still execute")
 
 document.getElementById("log_button").onclick = function() {  
-	log('log message') 
+	log.i('log message') 
 };
 
 document.getElementById("error_log_button").onclick = function() {  
-	logE('error log message')
+	log.e('error log message')
 };  
 
-
-const isWDS = require('isWDS')
-isWDS()

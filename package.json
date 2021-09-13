@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "simple-log-kit": "^1.0.0"
+    "@jasonfleischer/log": "^1.0.0"
   }
 }
