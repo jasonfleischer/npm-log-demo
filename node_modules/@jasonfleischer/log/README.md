@@ -1,4 +1,4 @@
-## [@jasonfleischer/log](https://www.npmjs.com/package/simple-log-kit)
+## [@jasonfleischer/log](https://www.npmjs.com/package/@jasonfleischer/log)
 
 A simple and lightweight log kit. Click [HERE](https://jasonfleischer.github.io/simple-log-kit-demo/) to see a demo
 
