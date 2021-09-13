@@ -13,9 +13,9 @@ $ npm i @jasonfleischer/log
 ``` javascript
 const log = require("@jasonfleischer/log")
 
-log.i("normal message");
+log.i("normal log message");
 
-log.e("error message");
+log.e("error log message");
 
 log.turnOffNonErrorLogs();
 ```
