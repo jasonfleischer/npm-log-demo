@@ -1,6 +1,6 @@
 {
   "name": "@jasonfleischer/log",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "simple and lightweight logging",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "url": "http://jasonfleischer.github.io/website/"
   },
   "funding": {
-    "type" : "individual",
-    "url" : "https://ko-fi.com/jasonfleischer"
+    "type": "individual",
+    "url": "https://ko-fi.com/jasonfleischer"
   },
   "license": "ISC",
   "bugs": {
